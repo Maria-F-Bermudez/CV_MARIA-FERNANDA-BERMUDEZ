@@ -28,9 +28,9 @@
 -Tecnólogo en Gestión Para establecimientos de alimentos y bebidas.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+
+Tengo habilidades para manejo de equipos de trabajo y comunicación asertiva. Capacitada para implementar estrategias que permitan el cumplimiento de objetivos.
+Me caracterizo por ser una persona resiliente, me gusta estar en constante aprendizaje en diferentes campos de interés, como en el mundo digital con apoyo de IA.
 
 ---
 
