@@ -7,7 +7,7 @@
 ## 📞 Contacto
 - **Teléfono:** 
 - **Email:** [mfernanda.bermudez2@gmail.com](mfernanda.bermudez2@gmail.com)
-- **LinkedIn:** [LinkedIn Maria Fernanda](https://www.linkedin.com/in/maria-fernanda-bermudez-15579b356/)
+- **LinkedIn:** [LinkedIn Maria Bermúdez](https://www.linkedin.com/in/maria-fernanda-bermudez-15579b356/)
 
 ## 🏢 Experiencia Laboral
 ### **Empresa XYZ** _(2020 - Actualidad)_
