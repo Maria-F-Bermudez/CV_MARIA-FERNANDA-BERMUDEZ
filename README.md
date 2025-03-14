@@ -6,7 +6,7 @@
 
 ## 📞 Contacto
 - **Teléfono:** 
-- **Email:** [correo@ejemplo.com](mfernanda.bermudez2@gmail.com)
+- **Email:** [mfernanda.bermudez2@gmail.com](mfernanda.bermudez2@gmail.com)
 - **LinkedIn:** [LinkedIn Maria Fernanda](https://www.linkedin.com/in/maria-fernanda-bermudez-15579b356/)
 
 ## 🏢 Experiencia Laboral
