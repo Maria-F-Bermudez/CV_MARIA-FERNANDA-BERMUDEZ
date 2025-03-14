@@ -10,15 +10,21 @@
 - **LinkedIn:** [LinkedIn Maria Bermúdez](https://www.linkedin.com/in/maria-fernanda-bermudez-15579b356/)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
+### **Empresa XYZ** _()_
 - Puesto ocupado y descripción breve.
 
 ### **Empresa ABC** _(2018 - 2020)_
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA (SERVICIO NACIONAL DE APRENDIZAJE SENA)** _(2023 - 2025)_
+-Tecnólogo en Gestión de Mercados.
+
+### **UNINPAHU (FUNDACIÓN UNIVERSITARIA PARA EL DESARROLLO HUMANO)** _(2018 - 2022)_
+-Profesional en Turismo y Gastronomía
+
+### **SENA (SERVICIO NACIONAL DE APRENDIZAJE SENA)** _(2017- 2019)_
+-Tecnólogo en Gestión Para establecimientos de alimentos y bebidas.
 
 ## 💡 Habilidades
 - **Habilidad 1**
