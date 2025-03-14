@@ -13,8 +13,8 @@
 ### **Empresa XYZ** _()_
 - Puesto ocupado y descripción breve.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **SIA S.A.S** _(2019 - 2019)_
+- Asistente de Operaciones: Sector de Alimentos; desempeñe funciones de revisión de agenda, manejo de base datos, actas de reuniones, recepción entre otras. Contrato de aprendizaje: (6 meses) 
 
 ## 🎓 Educación
 ### **SENA (SERVICIO NACIONAL DE APRENDIZAJE SENA)** _(2023 - 2025)_
