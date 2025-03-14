@@ -1,12 +1,12 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## MARÍA FERANDA BERMÚDEZ COTRINA
+**Profesión:** _PROFESIONAL EN TURISMO Y GASTRONOMÍA_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** 
+- **Email:** [correo@ejemplo.com](mfernanda.bermudez2@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
