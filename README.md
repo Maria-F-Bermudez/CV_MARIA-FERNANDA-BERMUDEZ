@@ -1,7 +1,7 @@
 # CV_Example
 # Hoja de Vida
 
-## MARÍA_FERANDA_BERMÚDEZ_COTRINA
+## MARÍA_BERMÚDEZ_
 **Profesión:** _PROFESIONAL EN TURISMO Y GASTRONOMÍA_
 
 Como Profesional en Turismo y Gastronomía con formación complementaria en Gestión de Mercados y experiencia en operaciones, manejo de equipos y estrategias de cumplimiento de objetivos, estoy segura de que puedo aportar valor a su organización.
