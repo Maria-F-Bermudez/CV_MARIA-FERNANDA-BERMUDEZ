@@ -4,14 +4,12 @@
 ## MARÍA_FERANDA_BERMÚDEZ_COTRINA
 **Profesión:** _PROFESIONAL EN TURISMO Y GASTRONOMÍA_
 
-Con gran interés me dirijo a usted para postularme al puesto de Bartender 
-
 Como Profesional en Turismo y Gastronomía con formación complementaria en Gestión de Mercados y experiencia en operaciones, manejo de equipos y estrategias de cumplimiento de objetivos, estoy segura de que puedo aportar valor a su organización.
 A lo largo de mi trayectoria, he desarrollado habilidades clave que se alinean con las necesidades de su empresa:
 
 Experiencia en operaciones y gestión: Durante mi rol como Asistente de Operaciones en SIA S.A.S., adquirí experiencia en la revisión de agendas, manejo de bases de datos y coordinación de actividades, lo que me permitió optimizar procesos y garantizar eficiencia en el sector de alimentos.
 Capacidad de adaptación y aprendizaje: Mi experiencia en el sector Forex y Streaming como independiente me ha permitido desarrollar resiliencia, pensamiento estratégico y habilidades digitales, apoyándome en herramientas de IA para mejorar resultados.
-Habilidades interpersonales: Me caracterizo por mi comunicación asertiva y mi capacidad para liderar equipos, fomentando un ambiente colaborativo y orientado a objetivos.
+Habilidades interpersonales: Me caracterizo por mi comunicación asertiva, fomentando un ambiente colaborativo y orientado a objetivos.
 
 Además, mi formación académica en Turismo y Gastronomía (UNINPAHU) y como Tecnóloga en Gestión de Mercados (SENA) me ha proporcionado una base sólida para entender las dinámicas del mercado y las necesidades de los clientes, lo que complementa mi perfil profesional.
 Estoy entusiasmada con la posibilidad de contribuir al crecimiento de [Nombre de la Empresa] y aplicar mis conocimientos y habilidades en un entorno dinámico y desafiante. Adjunto mi currículum vitae para su consideración y quedo a disposición para una entrevista en la que pueda ampliar detalles sobre mi experiencia y cómo puedo aportar valor a su equipo.
