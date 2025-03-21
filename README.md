@@ -16,7 +16,7 @@ Estoy entusiasmada con la posibilidad de contribuir al crecimiento de [Nombre de
 Agradezco su tiempo y consideración. Quedo atenta a su respuesta.
 Atentamente
 
-María Fernanda Bermúdez Cotrina
+María Fernanda Bermúdez 
 LinkedIn
 mfernanda.bermudez2@gmail.com
 
